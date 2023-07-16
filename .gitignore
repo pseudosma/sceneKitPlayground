@@ -3,7 +3,6 @@
 /Packages
 /*.xcodeproj
 
-*.pins
 *.xcuserstate
 *.xcworkspacedata
 *.gitkeep
@@ -11,11 +10,7 @@
 .env.*
 .swiftpm
 
-dev/mysql/data
-
 hooks/swiftformat-local
 hooks/git-format-staged
 
 /.vscode
-
-.csv
