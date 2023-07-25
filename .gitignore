@@ -10,7 +10,4 @@
 .env.*
 .swiftpm
 
-hooks/swiftformat-local
-hooks/git-format-staged
-
 /.vscode
